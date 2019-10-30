@@ -12,4 +12,4 @@ DE10_TSR_MIPS_noMEM contains all VHDL code necessary to implement Temporal Softw
 
 DE10_TSR_MIPS_wMEM_TESTER contains all VHDL code necessary to TSR MIPS using a VHDL simulator.  This includes test EDDI programs to run on Basic MIPS.
 
-The views expressed in this paper are those of the authors, and do not reflect the official policy or position of the United States Air Force, Department of Defense, or the U. S. Government. This document has been approved for public release; distribution unlimited, case #88ABW-2019-4400
+The views expressed in this code are those of the authors, and do not reflect the official policy or position of the United States Air Force, Department of Defense, or the U. S. Government. This document has been approved for public release; distribution unlimited, case numbers 88ABW-2019-4400, 88ABW-2019-5331, and 88ABW-2019-5336, 88ABW-2019-5340.
